@@ -1,4 +1,4 @@
 ﻿  Main.c
-c:\users\emil\dropbox\programering\c\hopp o lek\bubblesort\sort\main.c(9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-c:\users\emil\dropbox\programering\c\hopp o lek\bubblesort\sort\main.c(54): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
-  sort.vcxproj -> C:\Users\Emil\Dropbox\Programering\C\hopp o lek\Bubblesort\Debug\sort.exe
+c:\users\emil.sonksen\documents\github\some-sort\bubblesort\sort\main.c(9): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\emil.sonksen\documents\github\some-sort\bubblesort\sort\main.c(61): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+  sort.vcxproj -> C:\Users\emil.sonksen\Documents\GitHub\some-sort\Bubblesort\Debug\sort.exe
